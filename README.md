@@ -186,10 +186,10 @@ dfx canister call backend send_eth '("0xa32aECda752cF4EF89956e83d60C04835d4FA867
 	<tbody>
 		<tr>
             <td align="center">
-                <a href="https://github.com/kristoferlund">
-                    <img src="https://avatars.githubusercontent.com/u/9698363?v=4" width="100;" alt="kristoferlund"/>
+                <a href="https://github.com/moggs2">
+                    <img src="https://avatars.githubusercontent.com/u/35408081?v=4" width="100;" alt="moggs2"/>
                     <br />
-                    <sub><b>Kristofer</b></sub>
+                    <sub><b>moggs2</b></sub>
                 </a>
             </td>
 		</tr>
